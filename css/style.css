@@ -1,0 +1,75 @@
+body {
+    background-image: url("../images/boba-store-background-white-2.png");
+    /* achtergrond van https://zixinzhou.artstation.com/projects/Ye0q3X */
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    font-family: sans-serif;
+}
+
+h1 {
+    text-align: center;
+    position: relative;
+    top: 1em;
+}
+
+main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 2em;
+}
+
+.beker {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    max-width: 15%;
+}
+
+.tapioca {
+    max-width: 10%;
+    margin: 2em;
+}
+
+.pink-popping {
+    max-width: 10%;
+    margin: 2em;
+}
+
+.orange-popping {
+    max-width: 10%;
+    margin: 2em; 
+}
+
+.yellow-popping {
+    max-width: 10%;
+    margin: 2em; 
+}
+
+.pink-flavor {
+    max-width: 20%;
+}
+
+.orange-flavor {
+    max-width: 20%;
+}
+
+.yellow-flavor {
+    max-width: 20%;
+}
+
+.brown-flavor {
+    max-width: 20%;
+}
+
+.flavors-h2 {
+    position: relative;
+}
+
+.poppings-h2 {
+    position: relative;
+}
+
+
